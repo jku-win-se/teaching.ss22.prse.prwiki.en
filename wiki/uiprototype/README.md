@@ -8,6 +8,12 @@ List of tools: https://codecondo.com/free-wireframe-tools/
 
 Comparison of several tools: https://www.mockplus.com/blog/post/free-quick-wireframe-tools
 
+### SceneBuilder: 
+
+![Example UI Prototype with SceneBuilder](/wiki/scenebuilder-example.png)
+
+URL: https://gluonhq.com/products/scene-builder/
+
 ### Pencil Project
 
 URL: https://pencil.evolus.vn/
@@ -44,5 +50,4 @@ URL : http://www.mockupscreens.com/
 
 Operating System: MacOS and Windows
 
-Available: Free trial version with a limited duration 
-
+Available: Free trial version with a limited duration
