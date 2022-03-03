@@ -39,3 +39,13 @@ URL: https://www.lucidchart.com/
 Operating System: Web Browser, Android and iOS.
 
 Available: Free Account or Premium Account
+
+### GenMyModel
+
+![Image of StartUML](/wiki/uml/genmymodel-class-diagram.png)
+
+It is a cloud-based application that allows the development of a set of diagrams like: UML, Data modeling, Business Process Model and Notation (BPMN), etc. 
+
+URL: https://www.genmymodel.com/
+
+Available: Free Account or Premium Account
