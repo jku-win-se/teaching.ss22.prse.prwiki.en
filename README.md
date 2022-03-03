@@ -20,6 +20,7 @@
 
 [Continuous Integration with CircleCI](/wiki/circleci/README.md) 
 
+[Code Quality](/wiki/code-quality/README.md) 
 
 ## Useful Links:
 
