@@ -42,10 +42,19 @@ Available: Free Account or Premium Account
 
 ### GenMyModel
 
-![Image of StartUML](/wiki/uml/genmymodel-class-diagram.png)
+![Image of GenMyModel](/wiki/uml/genmymodel-class-diagram.png)
 
 It is a cloud-based application that allows the development of a set of diagrams like: UML, Data modeling, Business Process Model and Notation (BPMN), etc. 
 
 URL: https://www.genmymodel.com/
 
 Available: Free Account or Premium Account
+
+### Information System Designer
+
+![Image of the Information System Designer](/wiki/uml/obeo-database-designer.png)
+
+It is a set of tools that aims the design of applications. It is integrated in Eclipse and allows the creation of entity-relationship diagrams, grail designer, cinematic designer, among others.
+
+URL: https://github.com/ObeoNetwork/InformationSystem
+Wiki: https://github.com/ObeoNetwork/InformationSystem/wiki
