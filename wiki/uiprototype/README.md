@@ -10,7 +10,7 @@ Comparison of several tools: https://www.mockplus.com/blog/post/free-quick-wiref
 
 ### SceneBuilder: 
 
-![Example UI Prototype with SceneBuilder](/wiki/scenebuilder-example.png)
+![Example UI Prototype with SceneBuilder](/wiki/uiprototype/scenebuilder-example.png)
 
 URL: https://gluonhq.com/products/scene-builder/
 
