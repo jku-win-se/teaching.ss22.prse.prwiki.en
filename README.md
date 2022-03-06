@@ -55,7 +55,7 @@
 |10.05|&#x1F4D8;| Tuesday 12.00 - Release 2 |&#x1F4D8;|
 |12.05|&#x1F536;| Release 2 Review, Sprint Planning 3 |&#x1F536;|
 |19.05||--||
-|26.05|Individual Group Meetings / Code Review|
+|26.05|&#x1F539; | Individual Group Meetings / Code Review| &#x1F539;|
 |||*__June__*||
 |02.06|&#x1F539;| Qapture: Digital Twin of the Room? |&#x1F539;|
 |09.06|&#x1F539;| Qapture: Digital Twin of the Room?|&#x1F539;|
