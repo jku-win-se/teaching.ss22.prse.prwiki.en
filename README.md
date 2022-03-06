@@ -41,9 +41,9 @@
 |||*__March__*||
 |10.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
 |17.03|&#x1F536;| Quick Tutorials, Requirements Workshop, Sprint Planning 1 |&#x1F536;|
-|22.03|&#x1F536;| Sprint Planning 1 Completed in Zenhub |&#x1F536;|
-|25.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
-|31.03|&#x1F53A; |Easter holidays |&#x1F53A; |                                                                     |
+|22.03|&#x1F4D8;| Sprint Planning 1 Completed in Zenhub |&#x1F4D8;|
+|24.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
+|31.03| |-- | |                                                                     |
 |||*__April__*||
 |08.04|&#x1F53A; |Easter holidays |&#x1F53A; |
 |12.04|&#x1F4D8;| Mon. 12.00 - Release 1 |  &#x1F4D8;||12.04|&#x1F4D8;| Mon. 12.00 - Release 1 |  &#x1F4D8;|
