@@ -1,4 +1,4 @@
-# Praktikum Software Engineering Wiki
+# Praktikum Software Engineering Wikipage
 
 
 ## Important Links:
