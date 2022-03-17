@@ -1,6 +1,5 @@
 # Praktikum Software Engineering Wiki
 
-
 ## Important Links:
 -  CircleCI Continuous Integration: https://circleci.com/dashboard
 - Slides: [/slides](/slides) 
