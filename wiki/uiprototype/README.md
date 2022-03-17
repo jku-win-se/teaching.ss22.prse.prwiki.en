@@ -26,6 +26,13 @@ Available: Free to Download
 
 ![Example UI Prototype with Pencil](/wiki/uiprototype/pencil-example.png)
 
+### MockFlow
+URL: https://www.mockflow.com/
+
+Operating System: Web-Based
+Available: Free version sufficient for lecture
+Features: Different UIs (Desktop, Mobile, Web), Link different pages, export result as html or pptx
+
 ### Justmind
 
 URL: https://www.justinmind.com/
