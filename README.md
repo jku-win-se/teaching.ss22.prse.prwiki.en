@@ -57,8 +57,8 @@
 |26.05|&#x1F539; | -- | &#x1F539;|
 |||*__June__*||
 |02.06|&#x1F539;| Individual Group Meetings / Code Review |&#x1F539;|
-|09.06|&#x1F539;| Qapture: Digital Twin of the Room?|&#x1F539;|
-|16.06|&#x1F539;|Qapture: Digital Twin of the Room?|&#x1F539;|
+|09.06|&#x1F539;| - |&#x1F539;|
+|16.06|&#x1F539;|-|&#x1F539;|
 |21.06|&#x1F4D8;| Tuesday 12.00 - Release 3| &#x1F4D8;|
 |23.06|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
 |||*__July__*||
