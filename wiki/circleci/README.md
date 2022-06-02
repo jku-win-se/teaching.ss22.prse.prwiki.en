@@ -40,4 +40,6 @@ In the class `ProjectManager.java` a bracket was forgotten which led to an error
 
 If this error is fixed and the code is pushed into the GitHub repository again, CircleCI automatically starts a new build and the problem should be resolved. 
 
+Circle CI example: [Calculator example](https://github.com/jku-win-se/teaching-2022.prse.circleci.example)
+
 
